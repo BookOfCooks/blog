@@ -1,4 +1,4 @@
-# HTMX is hard, so let's get it right
+# HTMX is hard, so let's get it right (Part 1)
 
 Disclaimer: I originally planned to make a simple non-functional uploader, then progressively bring it from **"it works™"** to **"high-quality production-grade Uploader with S3 Presigned, Multipart, Accelerated Uploads, along with Auto-Saving and Non-Linear Navigation "** all in HTMX (work usually done with frameworks, hence the title).
 
