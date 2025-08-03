@@ -1,6 +1,6 @@
 # HTMX is hard, so let's get it right
 
-Disclaimer: I originally planned to make a simple non-functional uploader, then progressively bring it from **"it works™"** to **"high-quality and production-grade with S3 Presigned, Multipart, and Accelerated Uploads "** all in HTMX (hence the title).
+Disclaimer: I originally planned to make a simple non-functional uploader, then progressively bring it from **"it works™"** to **"high-quality production-grade Uploader with S3 Presigned, Multipart, Accelerated Uploads, along with Auto-Saving and Non-Linear Navigation "** all in HTMX (work usually done with frameworks, hence the title).
 
 However, just laying the foundation proved to be a really long post, so I'm breaking up into two pieces. This is the first piece, that establishes the basics.
 
