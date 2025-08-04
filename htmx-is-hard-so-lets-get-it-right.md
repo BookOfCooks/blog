@@ -4,6 +4,14 @@ Disclaimer: I originally planned to make a simple non-functional uploader, then 
 
 However, just laying the foundation proved to be a really long post, so I'm breaking up into two pieces. This is the first piece, that establishes the basics.
 
+---
+
+EDIT: Might be a little too-late now that this post has blown up on Reddit & Hackernews, but nevertheless, I want to make my intention with this article extremely clear. The goal of this post was not to glaze HTMX or showcase how simple it was. It's actually my response to a growing sentiment of people who believe HTMX is the "one-stop-shop" perfectly pristine solution to all of state management in the web.
+
+Don't get me wrong, it is great, but there are some real problems where using HTMX makes things more difficult than traditional frameworks (a sentiment even the author of HTMX spoke out against, though I can't find the link). And I wanted to showcase one such example, and hope the following blog post will establish this. Not to say HTMX can't do it (it absolutely can), but it's not all sunshine & rainbows. Hope you undertand.
+
+---
+
 Disclaimer over.
 
 ---
