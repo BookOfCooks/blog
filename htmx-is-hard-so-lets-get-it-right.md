@@ -67,7 +67,7 @@ As we progress through this article, we'll face harder & harder problems as we b
 _**Difficulty: easy**_
 Obviously, swapping the `<form>` was not enough, we need to swap the entire `Stepper`!
 
-**Or: If you had other elements in `Stepper` you didn't want to swap, then you'll need out-of-bound swaps to swap just the left column (OOB are always a context nightmare)**
+**Or: If you had other elements in `Stepper` you didn't want to swap, then you'll need out-of-band swaps to swap just the left column (OOB are always a context nightmare)**
 
 If your template language of choice allows you to embed children into a template, then you can break each step (`<form>`) into their own templates:
 ```html
